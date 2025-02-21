@@ -1,0 +1,2 @@
+1h setup vite and react
+1.2 h setup basic 3d classroom
